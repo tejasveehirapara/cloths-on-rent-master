@@ -22,5 +22,11 @@ export const user = [
         details:[
             "ooo","www","rrr","uuu"
         ]
+    },
+     {
+        userTitle:"Nature has begun in the past and it is responsible for indicating what is going to come",
+        details:[
+            "ooo","www","rrr","uuu"
+        ]
     }
 ]
