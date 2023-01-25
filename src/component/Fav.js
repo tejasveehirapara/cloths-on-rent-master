@@ -8,9 +8,10 @@ const location = useLocation()
 const datas = location.state
 console.log(datas,"locData")
   return (
+    
     // <div>{location.state}</div>
     <>
- 
+ "okyyyy"
   {
     datas.map((item) => {
       return (
